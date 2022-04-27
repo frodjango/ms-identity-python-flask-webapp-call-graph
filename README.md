@@ -8,6 +8,8 @@ export FLASK_DEBUG=1
 flask run
 
 
+added CORS - pip install -U flask-cors
+
 
 ---
 page_type: sample
